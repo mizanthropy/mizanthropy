@@ -5,3 +5,4 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mizanthropy&rank_icon=percentile&hide_title=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=mizanthropy&rank_icon=percentile&hide_title=true&include_all_commits=true&theme=tokyonight)
 
 </div>
+
